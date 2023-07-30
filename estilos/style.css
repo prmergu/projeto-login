@@ -14,7 +14,7 @@ azul cinzescuro = #0B132B     extras = #3A506B
 }
 
 body, html {
-    background-color: #5BC0BE;
+    background-image: linear-gradient(to bottom, #5BC0BE,#1C2541);
     height: 100vh;
     width: 100vw;
 }
